@@ -1,2 +1,2 @@
 création d'un site canin
-https://martineboulenger.github.io/pensionboulesdepoils/
+https://martineboulenger.github.io/pension/
